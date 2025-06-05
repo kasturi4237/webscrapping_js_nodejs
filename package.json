@@ -1,5 +1,5 @@
 {
-  "name": "webscraper",
+  "name": "webscraping_jobwebsite",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,16 @@
   "dependencies": {
     "axios": "^1.9.0",
     "cheerio": "^1.0.0",
-    "puppeteer": "^24.9.0"
-  }
+    "puppeteer": "^24.10.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kasturi4237/webscrapping_js_nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kasturi4237/webscrapping_js_nodejs/issues"
+  },
+  "homepage": "https://github.com/kasturi4237/webscrapping_js_nodejs#readme"
 }
